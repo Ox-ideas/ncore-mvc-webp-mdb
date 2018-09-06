@@ -1,2 +1,2 @@
-# ncore-mvc-webp-mdb
-template for asp.net core mvc + webpack mdbootstrap
+# ncore-webp-bs4
+template for lean asp.net core + webpack, bootstrap
